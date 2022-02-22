@@ -14,4 +14,6 @@ Then go to the directory with main.py, open cmd and write:
   
 - py (or python) main.py
 
+# Or you can donwload release from releases idk  
+
 # Congratulations!
