@@ -1,0 +1,8 @@
+alerts_token = yourDAToken
+amount_kill = 30
+amount_freeze = 40
+amount_speedup = 10
+amount_speeddown = 15
+amount_resize = 20
+amount_everything_hurts = 60
+amount_resize_win = 5

@@ -1,0 +1,3 @@
+https://github.com/nekitdev/gd.py
+donationalerts_api
+win32gui
